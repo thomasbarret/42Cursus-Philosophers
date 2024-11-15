@@ -11,7 +11,6 @@
 - [File Structure](#file-structure)
 - [Synchronization](#synchronization)
 - [Libraries](#libraries)
-- [Contributing](#contributing)
 
 ---
 
